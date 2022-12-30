@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<humans>
+    <users>
+		<!-- Versi & Tmp -->
+        <id>1</id>
+        <tmp>tmp 15</tmp>
+        <lg>tmp 13</lg>
+        <v>RQ.2019.04</v>
+		
+		<!-- Meta -->
+		<charset>utf-8</charset>
+		<keywords></keywords>
+		<description></description>
+		<Author></Author>
+		<icon>../../../data/image/logo/logo.png</icon>
+		<situs></situs>
+		
+		<!-- Settings Aplikasi -->
+		<logo>../../../data/image/logo/logo.png</logo>
+		<imageerror>../../../data/image/error/file.png</imageerror>
+		<avatar>../../../data/image/avatar/avatar11.png</avatar>
+		<background>../../../data/image/background/background1.png</background>
+		<bg_login>../data/image/background/bglogin.png</bg_login>
+		
+		<slide1>admin/data/image/background/background1.png</slide1>
+		<slide2>admin/data/image/background/background1.png</slide2>
+		<slide3>admin/data/image/background/background1.png</slide3>
+		
+		<judul>Absensi Guru SMK N 1 Lenangguar</judul>
+		<objek>Absensi Guru SMK N 1 Lenangguar</objek>
+		<alamat>Jln. Lintas Sumbawa –Lunyuk  Km.40 Lenangguar
+		</alamat>
+		<telepon>08xx-xxxx-xxxx</telepon>
+		<email>esemkalg@yahoo.co.id</email>
+		
+		<facebook>#</facebook>
+		<google>#</google>
+		<twitter>#</twitter>
+		<instagram>#</instagram>
+		<linkedin>#</linkedin>
+		<youtube>#</youtube>
+		<maps_x>#</maps_x>
+		<maps_y>#</maps_y>
+		
+		<nama_aplikasi>Absensi Guru SMK N 2 Lenagguar</nama_aplikasi>
+		<keterangan_aplikasi>%keterangan_aplikasi</keterangan_aplikasi>
+		<tahun>2022</tahun>
+		<copyright>CopyRight © 2022 - Absensi Guru SMK N 2 Lenangguar</copyright>
+		
+		<c_siapa>jenenge</c_siapa>
+		<siapa>Administrator</siapa>
+		<sambutan>Selamat Datang siapa Di Aplikasi br judul</sambutan>
+		
+		<!-- Settings Tampilan -->
+		<meta_head>1</meta_head>
+		<combosearch>1</combosearch>
+		<grafik>1</grafik>
+		<kata_sambutan>1</kata_sambutan>
+		<gambar_background>1</gambar_background>
+		<menu_setting>1</menu_setting>
+		<menu_admin>1</menu_admin>
+		<ckeditor>1</ckeditor>
+		<popup>1</popup>
+		<seo>0</seo>
+		<ekstensi_dilarang>php','asp','sql','js','css','py','php4</ekstensi_dilarang>
+		<classe></classe>
+		
+		<!-- Settings Laporan -->
+		<logo_laporan1>../../../data/image/logo/logo.png</logo_laporan1>
+		<logo_laporan2>../../../data/image/logo/logo.png</logo_laporan2>
+		<ttd>Kepala Sekolah</ttd>
+		<wilayah>Lenangguar</wilayah>
+		
+		<!-- Login -->
+		<tabel_login>data_admin</tabel_login>
+		<field_username_login>username</field_username_login>
+		<field_password_login>password</field_password_login>
+		<pesan_gagal>Username/Password yang anda masukan salah..!</pesan_gagal>
+		<url_desain>desain-bootstrap.php</url_desain>
+		
+		
+    </users>
+</humans>
